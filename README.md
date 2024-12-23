@@ -66,28 +66,6 @@ JAVA Programming Lab - Final Project
 
 ---
 
-## Screenshots and Descriptions
-
-### Main Interface
-- Displays buttons for navigating different features.
-- Buttons are disabled until the user logs in.
-
-### Registration and Login
-- Allows new users to register and existing users to log in.
-
-### Clothes Registration
-- Users can select a category, type, and color to register new clothing items.
-- If a field is missing, an error message is displayed.
-
-### Closet View
-- Displays all registered clothes by category.
-- Users can delete items through a dedicated dialog.
-
-### Outfit Combination
-- Users select items from each category and combine them to create a preview of the outfit.
-
----
-
 ## Notes on Clothing Images
 - Free copyright images were sourced from [Freepik](https://www.freepik.com/).
 - Images were recolored using **Naver Webtoon AI Painter** for variety.
